@@ -10,5 +10,5 @@ Qlunc_NoteBook-checkpoint.ipynb
 # Ignore specific folders:
 Figures/
 Sphinx4Qlunc/
-
+metadata/AtmosphericData
 
